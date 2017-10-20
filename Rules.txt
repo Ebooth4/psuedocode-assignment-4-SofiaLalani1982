@@ -6,8 +6,8 @@ To get all of your cards flipped over in ascending order of 1 through 8
 CARD MEANINGS:
 Cards with any letters or any symbol with the numbers 1-8 are accessible and used no matter what
 Ace is used as the number 1
-The cards with the number or symbol or face of 9, 10, Jack, or Queen will always be trashed because they are not useful
-The card King, can act as any card 
+The cards with the number or symbol or face of 9, 10, Jack, or Queen will always be trashed because they are not in between 1 and 8
+The card King, which is a wild card, can act as any card 
 
 THE SETUP:
 The dealer distributes a standard pack of 52 cards with each player getting 8 cards in total
